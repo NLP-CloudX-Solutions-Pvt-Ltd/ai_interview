@@ -1,0 +1,5 @@
+Explain the concept of virtual environments in Python.
+What is the difference between a list and a tuple?
+How does Python manage memory internally?
+Scenario: Your Flask API is slow. How do you optimize it?
+Write a Python function to check if a string is a palindrome.

@@ -1,0 +1,8 @@
+opencv-python
+pyaudio
+ffmpeg-python
+python-dotenv
+speechrecognition
+gtts
+
+
