@@ -1,8 +1,0 @@
-flask
-openai
-gTTS
-SpeechRecognition
-pyaudio
-opencv-python
-python-dotenv
-pydub
